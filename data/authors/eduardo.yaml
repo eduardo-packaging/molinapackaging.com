@@ -1,0 +1,91 @@
+schema: hugoblox/author/v1
+slug: eduardo
+is_owner: true
+name:
+  display: Eduardo
+  given: Eduardo
+  family: ''
+  alternate: ''
+  pronunciation: ''
+  pronouns: ''
+postnominals:
+  - PhD
+status:
+  icon: "🌱"
+role: Assistant Professor
+bio: |
+  Eduardo is an Assistant Professor in the Department of Sustainable Biomaterials at Virginia Tech. His research focuses on developing sustainable and renewable materials for a more environmentally friendly future. His work encompasses the development and characterization of bio-based materials, with applications in packaging, construction, and advanced materials.
+
+affiliations:
+  - name: Virginia Tech
+    url: https://www.vt.edu/
+  - name: Department of Sustainable Biomaterials
+    url: https://www.sbio.vt.edu/
+
+links:
+  - icon: at-symbol
+    url: mailto:eduardo@vt.edu
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/edumol88
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/
+
+interests:
+  - Sustainable Biomaterials
+  - Renewable Materials
+  - Bio-based Products
+  - Materials Science
+  - Sustainability
+
+education:
+  - degree: PhD in [Your Field]
+    institution: [Your University]
+    start: 20XX-09-01
+    end: 20XX-06-30
+    summary: |
+      Add your dissertation details here.
+  - degree: MS in [Your Field]
+    institution: [Your University]
+    start: 20XX-09-01
+    end: 20XX-05-31
+  - degree: BS in [Your Field]
+    institution: [Your University]
+    start: 20XX-09-01
+    end: 20XX-05-31
+
+experience:
+  - role: Assistant Professor
+    org: Virginia Tech - Department of Sustainable Biomaterials
+    start: 20XX-XX-XX
+    summary: |
+      Leading research on sustainable biomaterials and renewable materials. Teaching undergraduate and graduate courses in biomaterials science.
+
+skills:
+  - name: Technical Skills
+    items:
+      - label: Materials Characterization
+        level: 5
+      - label: Biomaterials Science
+        level: 5
+      - label: Research & Development
+        level: 5
+  - name: Research & Communication
+    items:
+      - label: Academic Writing
+        level: 5
+      - label: Grant Proposals
+        level: 4
+      - label: Conference Presentations
+        level: 5
+
+languages:
+  - name: English
+    level: 5
+    label: Fluent
+
+awards: []

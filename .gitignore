@@ -1,0 +1,42 @@
+# Hugo
+public/
+resources/
+.hugo_build.lock
+hugo_stats.json
+
+# Node
+node_modules/
+package-lock.json
+yarn.lock
+
+# MacOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.bak
+*.tmp
+*.temp
+
+# Log files
+*.log
+
+# Environment
+.env
+.env.local
+
+# Build artifacts
+dist/
+build/
+
+# Cache
+.cache/
+
+# Academic theme specific
+assets/jsconfig.json
