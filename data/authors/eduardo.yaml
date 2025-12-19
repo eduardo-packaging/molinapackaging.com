@@ -2,9 +2,9 @@ schema: hugoblox/author/v1
 slug: eduardo
 is_owner: true
 name:
-  display: Eduardo
+  display: Eduardo Molina
   given: Eduardo
-  family: ''
+  family: Molina
   alternate: ''
   pronunciation: ''
   pronouns: ''
