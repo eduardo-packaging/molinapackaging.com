@@ -10,6 +10,7 @@ appearance:
   theme_night: minimal
   font: minimal
   font_size: L
+  color: custom
 
 # SEO
 marketing:
@@ -17,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: 'Virginia Tech'
-    description: 'Eduardo - Assistant Professor, Department of Sustainable Biomaterials, Virginia Tech'
+    description: 'Dr. Eduardo Molina - Assistant Professor, Packaging Science & Associate Director, Center for Packaging and Unit Load Design, Virginia Tech'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -42,9 +43,9 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Eduardo. This work is licensed under {license}'
+    notice: '© {year} Eduardo Molina | Packaging Science'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -65,7 +66,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/edumol88/edumol88.github.io'
+    url: 'https://github.com/eduardo-packaging/molinapackaging.com'
     content_dir: content
     branch: main
   avatar:

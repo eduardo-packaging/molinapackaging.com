@@ -25,18 +25,26 @@ sections:
     id: research
     content:
       title: 'Research'
-      subtitle: ''
+      subtitle: 'Packaging Science & Supply Chain Optimization'
       text: |-
-        My research focuses on developing sustainable biomaterials and renewable materials for a more environmentally friendly future. I apply innovative approaches to materials characterization and development to create bio-based alternatives to petroleum-derived products.
+        My research bridges the gap between packaging materials science and supply chain performance. I focus on understanding how packaging components interact within the distribution system to optimize performance, reduce waste, and improve sustainability.
 
-        My work encompasses applications in packaging, construction, and advanced materials, with a focus on understanding structure-property relationships in sustainable materials.
+        **Core Research Areas:**
+
+        **Unit Load Optimization** — Investigating the mechanical interactions between pallets, packaging, and products during warehouse storage and transportation. My Ph.D. work developed friction-driven finite element models and Gaussian process surrogate models to simulate and predict load bridging effects in racked pallets.
+
+        **Corrugated Fiberboard Performance** — I established and manage the only IKEA-certified corrugated fiberboard testing laboratory in North America, as part of the Center for Packaging and Unit Load Design. This lab evaluates and certifies performance properties of corrugated board for manufacturers and end users.
+
+        **E-commerce & Last-Mile Delivery** — Exploring packaging challenges in direct-to-consumer fulfillment, including consumer perceptions of e-commerce packaging and operational efficiency in last-mile grocery delivery.
+
+        **Packaging Supply Chain Systems** — Optimizing packaging design decisions for manufacturing productivity, distribution efficiency, and sustainability across the supply chain.
     design:
       columns: '1'
 
   - block: collection
     id: publications
     content:
-      title: Recent Publications
+      title: Publications
       text: ''
       filters:
         folders:
@@ -61,32 +69,21 @@ sections:
   - block: markdown
     id: students
     content:
-      title: Students & Lab Members
+      title: Students & Lab
       text: |
         ## Current Students
 
-        ### PhD Students
-        - Student Name 1 - Research Topic
-        - Student Name 2 - Research Topic
-
-        ### Master's Students
-        - Student Name 3 - Research Topic
-        - Student Name 4 - Research Topic
-
-        ### Undergraduate Researchers
-        - Student Name 5 - Research Topic
-
-        ## Alumni
-
-        ### PhD Graduates
-        - Alumnus 1 (Year) - Current Position
-
-        ### Master's Graduates
-        - Alumnus 2 (Year) - Current Position
+        *Information on current graduate and undergraduate researchers coming soon. If you are interested in joining the lab, please reach out.*
 
         ---
 
-        **Interested in joining the lab?** Please contact me if you're interested in pursuing graduate studies or undergraduate research opportunities.
+        ## Center for Packaging and Unit Load Design
+
+        As Associate Director, I oversee the packaging materials testing operations at the [Center for Packaging and Unit Load Design](https://www.unitload.vt.edu/). Our facilities include the only IKEA-certified corrugated fiberboard testing laboratory in North America, where students gain hands-on experience evaluating and certifying packaging materials.
+
+        ---
+
+        **Interested in joining?** I am always looking for motivated graduate students and undergraduate researchers interested in packaging science, supply chain optimization, and sustainable materials. Please [contact me](mailto:molina@vt.edu) with your CV and research interests.
     design:
       columns: '2'
 
@@ -98,18 +95,25 @@ sections:
         ## Current Courses
 
         ### Fall Semester
-        - **SBIO XXXX**: Course Name - Course Description
+        - **Packaging Development** — Principles and practices in developing packaging systems from concept to market.
+        - **Packaging Distribution Systems** — Analysis of packaging performance within distribution and logistics networks.
 
         ### Spring Semester
-        - **SBIO XXXX**: Course Name - Course Description
+        - **Sustainable Operations Management** — Operations management principles with a focus on sustainability in manufacturing and packaging.
+        - **Sustainable Packaging Design** — Design methodologies for creating environmentally responsible packaging solutions.
+
+        ## Additional Courses Taught
+        - **CAD in Packaging** — Computer-aided design tools for packaging engineering.
+        - **Introduction to Packaging Systems & Design** — Foundational course for the packaging program.
+        - **Packaging Machinery & Production** — Packaging machinery systems, production line design, and operational efficiency.
+
+        ## Professional Development
+        - Short Course: Material Handling and Warehousing
+        - Short Course: Prologis Material Handling and Warehousing
 
         ## Teaching Philosophy
 
-        I am committed to providing students with hands-on learning experiences that prepare them for careers in sustainable biomaterials and related fields. My courses emphasize both theoretical foundations and practical applications.
-
-        ## Past Courses
-        - Course Name 1 (Years taught)
-        - Course Name 2 (Years taught)
+        I develop hands-on learning experiences for both undergraduate students and industry professionals. My courses connect theoretical foundations with real-world packaging challenges, leveraging industry partnerships and our testing facilities to give students practical, career-ready skills.
     design:
       columns: '2'
 
@@ -118,14 +122,22 @@ sections:
     content:
       title: Contact
       text: |
-        **Email:** eduardo@vt.edu
+        **Dr. Eduardo Molina**
+        Assistant Professor, Packaging Systems and Design
+        Associate Director, Center for Packaging and Unit Load Design
 
-        **Office:** 230 Cheatham Hall
-        Department of Sustainable Biomaterials
+        **Email:** [molina@vt.edu](mailto:molina@vt.edu)
+        **Phone:** (540) 231-8215
+
+        **Office:** Department of Sustainable Biomaterials
         Virginia Tech
         Blacksburg, VA 24061
 
         **Office Hours:** By appointment
+
+        ---
+
+        *For prospective students: Please include your CV, transcripts, and a brief statement of research interests when reaching out.*
     design:
       columns: '2'
 ---

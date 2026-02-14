@@ -1,49 +1,36 @@
 ---
-title: Advanced Characterization of Biomaterials
-summary: Development of advanced characterization techniques for sustainable biomaterials.
+title: E-commerce Packaging & Last-Mile Delivery
+summary: Investigating packaging challenges in direct-to-consumer fulfillment, consumer perceptions, and last-mile delivery operations.
 tags:
-  - Materials Characterization
-  - Biomaterials
+  - E-commerce
+  - Last-Mile Delivery
+  - Consumer Perceptions
 date: '2023-06-01T00:00:00Z'
-
-# Optional external URL for project (replaces project detail page).
 external_link: ''
-
 image:
   caption: ''
   focal_point: Smart
-
 url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
-
 slides: ""
 ---
 
 ## Overview
 
-This project develops and applies advanced characterization techniques to better understand the structure-property relationships in sustainable biomaterials.
+The rapid growth of e-commerce has created new packaging challenges that differ fundamentally from traditional retail distribution. This research explores how packaging systems must adapt to direct-to-consumer fulfillment, last-mile delivery, and changing consumer expectations.
 
-## Research Areas
+## Research Focus Areas
 
-- Microscopy and imaging techniques
-- Spectroscopic analysis
-- Mechanical testing
-- Thermal analysis
-- Surface characterization
+**Consumer Perceptions of E-commerce Packaging** — Understanding how consumers evaluate packaging in the e-commerce context, where the unboxing experience and sustainability concerns shape brand perception.
 
-## Equipment and Facilities
+**Last-Mile Grocery Delivery** — Investigating operational challenges and packaging requirements for grocery delivery in suburban environments, including temperature-sensitive products and delivery efficiency.
 
-Our lab has access to state-of-the-art characterization equipment including:
-- Equipment 1
-- Equipment 2
-- Equipment 3
+**Direct-From-Store Deliveries** — Analyzing consumer preferences and operational execution for store-based fulfillment models in a global context.
 
-## Team
+## Selected Publications
 
-- PhD Student 1
-- MS Student 1
-- Undergraduate Researcher 1
-
-This is a placeholder project. Replace with your actual research details.
+- Analysis of Consumer Preferences for Direct-From-Store Deliveries (IAPRI 2024)
+- Investigation of Last-Mile Grocery Delivery in a Suburban Environment (ISTA 2023)
+- Investigation of Consumer Perceptions of E-commerce Packaging (IAPRI 2022)

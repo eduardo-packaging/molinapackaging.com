@@ -2,90 +2,122 @@ schema: hugoblox/author/v1
 slug: eduardo
 is_owner: true
 name:
-  display: Eduardo Molina
+  display: Eduardo Molina, Ph.D.
   given: Eduardo
   family: Molina
-  alternate: ''
+  alternate: 'Eduardo Molina Montoya'
   pronunciation: ''
   pronouns: ''
 postnominals:
-  - PhD
+  - Ph.D.
 status:
-  icon: "🌱"
-role: Assistant Professor
+  icon: "📦"
+role: Assistant Professor & Associate Director
 bio: |
-  Eduardo is an Assistant Professor in the Department of Sustainable Biomaterials at Virginia Tech. His research focuses on developing sustainable and renewable materials for a more environmentally friendly future. His work encompasses the development and characterization of bio-based materials, with applications in packaging, construction, and advanced materials.
+  Packaging science researcher at Virginia Tech focused on unit load optimization, corrugated fiberboard performance, and sustainable packaging systems.
 
 affiliations:
   - name: Virginia Tech
     url: https://www.vt.edu/
   - name: Department of Sustainable Biomaterials
-    url: https://www.sbio.vt.edu/
+    url: https://sbio.vt.edu/
+  - name: Center for Packaging and Unit Load Design
+    url: https://www.unitload.vt.edu/
 
 links:
   - icon: at-symbol
-    url: mailto:eduardo@vt.edu
+    url: mailto:molina@vt.edu
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/edumol88
+    url: https://github.com/eduardo-packaging
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=YOUR_ID
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-9988-8171
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/eduardo-molina-cr/
 
 interests:
-  - Sustainable Biomaterials
-  - Renewable Materials
-  - Bio-based Products
-  - Materials Science
-  - Sustainability
+  - Packaging Supply Chain Optimization
+  - Unit Load Performance & Design
+  - Corrugated Fiberboard Testing
+  - E-commerce Packaging Systems
+  - Sustainable Packaging Design
+  - Transportation Packaging Research
 
 education:
-  - degree: PhD in [Your Field]
-    institution: [Your University]
-    start: 20XX-09-01
-    end: 20XX-06-30
+  - degree: Ph.D. in Forest Products (Packaging)
+    institution: Virginia Tech
+    start: 2017-06-01
+    end: 2020-12-17
     summary: |
-      Add your dissertation details here.
-  - degree: MS in [Your Field]
-    institution: [Your University]
-    start: 20XX-09-01
-    end: 20XX-05-31
-  - degree: BS in [Your Field]
-    institution: [Your University]
-    start: 20XX-09-01
-    end: 20XX-05-31
+      Dissertation: Modeling of the fundamental mechanical interactions of unit load components during warehouse racking storage.
+  - degree: M.Sc. in Forest Products (Packaging)
+    institution: Virginia Tech
+    start: 2015-08-10
+    end: 2017-05-15
+    summary: |
+      Thesis: Investigation of pallet stacking pattern on unit load bridging.
+  - degree: B.S. in Industrial Production Engineering
+    institution: Costa Rica Institute of Technology
+    start: 2007-02-05
+    end: 2012-02-10
 
 experience:
   - role: Assistant Professor
     org: Virginia Tech - Department of Sustainable Biomaterials
-    start: 20XX-XX-XX
+    start: 2023-01-10
     summary: |
-      Leading research on sustainable biomaterials and renewable materials. Teaching undergraduate and graduate courses in biomaterials science.
+      Leading the Packaging Systems and Design program. Teaching courses in packaging development, distribution systems, sustainable operations, and CAD for packaging.
+  - role: Associate Director for Packaging Materials Testing
+    org: Virginia Tech - Center for Packaging and Unit Load Design
+    start: 2021-01-01
+    summary: |
+      Overseeing packaging materials testing operations. Managing the only IKEA-certified corrugated fiberboard testing laboratory in North America.
+  - role: Instructor
+    org: Virginia Tech - Sustainable Biomaterials
+    start: 2018-01-15
+    end: 2023-01-09
+    summary: |
+      Taught packaging courses including Packaging Machinery and Production Systems, Packaging Supply Chain, Distribution and Material Handling Systems, and Computer-aided Packaging Design.
+  - role: Supply Chain Planning Analyst
+    org: Kimberly-Clark
+    start: 2011-01-10
+    end: 2015-07-31
+    summary: |
+      Supply chain planning and optimization at a global CPG company in San Jose, Costa Rica.
 
 skills:
-  - name: Technical Skills
+  - name: Research Expertise
     items:
-      - label: Materials Characterization
+      - label: Unit Load Optimization
         level: 5
-      - label: Biomaterials Science
+      - label: Corrugated Fiberboard Testing
         level: 5
-      - label: Research & Development
-        level: 5
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Grant Proposals
+      - label: Finite Element Modeling
         level: 4
-      - label: Conference Presentations
+      - label: Packaging Distribution Systems
         level: 5
+  - name: Industry & Professional
+    items:
+      - label: Supply Chain Management
+        level: 5
+      - label: IKEA-Certified Testing
+        level: 5
+      - label: Six Sigma (Green Belt)
+        level: 4
+      - label: APICS CPIM Certified
+        level: 4
 
 languages:
   - name: English
     level: 5
     label: Fluent
+  - name: Spanish
+    level: 5
+    label: Native
+  - name: German
+    level: 3
+    label: Conversational
 
 awards: []
