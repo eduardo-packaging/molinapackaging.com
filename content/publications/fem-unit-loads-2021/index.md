@@ -1,7 +1,7 @@
 ---
 title: 'Development of a Friction-Driven Finite Element Model to Simulate the Load Bridging Effect of Unit Loads Stored in Warehouse Racks'
 authors:
-  - admin
+  - eduardo
   - Laszlo Horvath
   - R. L. West
 date: '2021-01-01T00:00:00Z'

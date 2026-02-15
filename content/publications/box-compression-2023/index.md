@@ -3,7 +3,7 @@ title: 'Predicting the Effect of Pallet Overhang on the Box Compression Strength
 authors:
   - Saewhan Kim
   - Laszlo Horvath
-  - admin
+  - eduardo
   - Others
 date: '2023-07-13T00:00:00Z'
 doi: '10.1002/pts.2768'

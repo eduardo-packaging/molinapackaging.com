@@ -1,7 +1,7 @@
 ---
 title: 'Investigation of pallet stacking pattern on unit load bridging'
 authors:
-  - admin
+  - eduardo
   - L. Horvath
   - M. White
 date: '2018-07-01T00:00:00Z'

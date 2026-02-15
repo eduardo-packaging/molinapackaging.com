@@ -1,7 +1,7 @@
 ---
 title: 'Investigation of the consumer perceptions of e-commerce packaging'
 authors:
-  - admin
+  - eduardo
 date: '2022-06-13T00:00:00Z'
 doi: ''
 publishDate: '2022-06-13T00:00:00Z'

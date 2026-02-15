@@ -1,7 +1,7 @@
 ---
 title: 'Investigation of Last-Mile Grocery Delivery in a Suburban Environment'
 authors:
-  - admin
+  - eduardo
   - A. Johnson
   - Z. Weston
   - Others

@@ -1,7 +1,7 @@
 ---
 title: 'Analysis of Consumer Preferences and Operational Execution in a Global Environment for Direct-From-Store Deliveries'
 authors:
-  - admin
+  - eduardo
 date: '2024-06-18T00:00:00Z'
 doi: ''
 publishDate: '2024-06-18T00:00:00Z'

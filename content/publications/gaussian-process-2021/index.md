@@ -1,7 +1,7 @@
 ---
 title: 'Development of a Gaussian Process Model as a Surrogate to Study Load Bridging Performance in Racked Pallets'
 authors:
-  - admin
+  - eduardo
   - Laszlo Horvath
 date: '2021-12-01T00:00:00Z'
 doi: '10.3390/app112411865'
