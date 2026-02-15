@@ -1,7 +1,7 @@
 ---
 title: 'Predicting the Effect of Pallet Overhang on the Box Compression Strength'
 authors:
-  - Sumin Kim
+  - Saewhan Kim
   - Laszlo Horvath
   - admin
   - Others
