@@ -38,6 +38,7 @@ links:
     url: https://www.linkedin.com/in/eduardo-molina-cr/
 
 interests:
+  - Cold Chain Packaging
   - Packaging Supply Chain Optimization
   - Unit Load Performance & Design
   - Corrugated Fiberboard Testing
@@ -57,7 +58,7 @@ education:
     start: 2015-08-10
     end: 2017-05-15
     summary: |
-      Thesis: Investigation of pallet stacking pattern on unit load bridging.
+      Thesis: Investigation of pallet stacking patterns on unit load bridging.
   - degree: B.S. in Industrial Production Engineering
     institution: Costa Rica Institute of Technology
     start: 2007-02-05
@@ -68,18 +69,18 @@ experience:
     org: Virginia Tech - Department of Sustainable Biomaterials
     start: 2023-01-10
     summary: |
-      Leading the Packaging Systems and Design program. Teaching courses in packaging development, distribution systems, sustainable operations, and CAD for packaging.
+      Assistant Professor in the Packaging Systems and Design program. Teaching courses in packaging development, distribution systems, sustainable operations management, and CAD for packaging.
   - role: Associate Director for Packaging Materials Testing
     org: Virginia Tech - Center for Packaging and Unit Load Design
     start: 2021-01-01
     summary: |
-      Overseeing packaging materials testing operations. Managing the only IKEA-certified corrugated fiberboard testing laboratory in North America.
-  - role: Instructor
+      Started the Cold Chain Packaging Laboratory. Overseeing packaging materials testing operations. Managing the only IKEA-certified corrugated fiberboard testing laboratory in North America.
+  - role: Instructor + Assistant Collegiate Professor
     org: Virginia Tech - Sustainable Biomaterials
     start: 2018-01-15
     end: 2023-01-09
     summary: |
-      Taught packaging courses including Packaging Machinery and Production Systems, Packaging Supply Chain, Distribution and Material Handling Systems, and Computer-aided Packaging Design.
+      Developed and taught packaging courses including Packaging Machinery and Production Systems, Packaging Supply Chain, Distribution and Material Handling Systems, and Computer-aided Packaging Design.
   - role: Supply Chain Planning Analyst
     org: Kimberly-Clark
     start: 2011-01-10
@@ -90,7 +91,7 @@ experience:
 skills:
   - name: Research Expertise
     items:
-      - label: Unit Load Optimization
+      - label: Cold Chain Packaging
         level: 5
       - label: Corrugated Fiberboard Testing
         level: 5
