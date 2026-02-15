@@ -30,7 +30,8 @@ sections:
         My research bridges the gap between packaging materials science and supply chain performance. I focus on understanding how packaging components interact within the distribution system to optimize performance, reduce waste, and improve sustainability.
 
         **Core Research Areas:**
-
+        **Cold Chain Packaging** — Research, consulting, and contract testing services to help companies develop and validate packaging solutions for temperature-sensitive products — from pharmaceuticals to fresh food and biological materials. Equipped with heat flow meters, DSC, and advanced thermal modeling tools, the lab evaluates insulation performance, prototypes insulated shipping containers, and conducts field data collection for shock, vibration, temperature, and humidity. We follow industry standards including ASTM D3103-20, ASTM D4332, ISTA 7D, and ISTA 7E. A core focus is advancing sustainability in cold chain logistics by assessing bio-based and recyclable insulation alternatives, evaluating phase change materials to reduce refrigerant waste, and optimizing packaging designs to lower carbon footprint without compromising product integrity.
+       
         **Unit Load Optimization** — Investigating the mechanical interactions between pallets, packaging, and products during warehouse storage and transportation. My Ph.D. work developed friction-driven finite element models and Gaussian process surrogate models to simulate and predict load bridging effects in racked pallets.
 
         **Corrugated Fiberboard Performance** — I established and manage the only IKEA-certified corrugated fiberboard testing laboratory in North America, as part of the Center for Packaging and Unit Load Design. This lab evaluates and certifies performance properties of corrugated board for manufacturers and end users.
@@ -107,13 +108,13 @@ sections:
         - **Introduction to Packaging Systems & Design** — Foundational course for the packaging program.
         - **Packaging Machinery & Production** — Packaging machinery systems, production line design, and operational efficiency.
 
-        ## Professional Development
+        ## Professional Development Courses
         - Short Course: Material Handling and Warehousing
         - Short Course: Prologis Material Handling and Warehousing
 
         ## Teaching Philosophy
 
-        I develop hands-on learning experiences for both undergraduate students and industry professionals. My courses connect theoretical foundations with real-world packaging challenges, leveraging industry partnerships and our testing facilities to give students practical, career-ready skills.
+        I develop hands-on learning experiences for undergraduate and graduate students, and industry professionals. My courses connect theoretical foundations with real-world packaging challenges, leveraging industry partnerships and our testing facilities to give students practical, career-ready skills.
     design:
       columns: '2'
 

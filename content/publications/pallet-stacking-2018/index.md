@@ -2,7 +2,7 @@
 title: 'Investigation of pallet stacking pattern on unit load bridging'
 authors:
   - admin
-  - Laszlo Horvath
+  - L. Horvath
   - M. White
 date: '2018-07-01T00:00:00Z'
 doi: '10.1002/pts.2406'
