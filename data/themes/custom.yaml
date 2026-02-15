@@ -1,0 +1,43 @@
+# Custom Theme: Navy + Gold - Packaging Science
+# Modern dark navy with gold accents
+
+hugoblox:
+  meta:
+    format: "hugoblox-theme@1"
+    name: "Navy Gold"
+    vendor: "custom"
+    version: "1.0.0"
+    license: "MIT"
+    description: "Modern navy and gold academic theme"
+
+  type: "dual"
+
+  light:
+    colors:
+      primary: "#1B365D"    # Deep Navy - main accent
+      secondary: "#C5A030"  # Rich Gold - secondary accent
+      neutral: "#1a1a2e"    # Near-black for text
+    surfaces:
+      background: "#ffffff"
+      foreground: "#1a1a2e"
+      header:
+        background: "#1B365D"  # Navy header
+        foreground: "#ffffff"   # White text on navy
+      footer:
+        background: "#0f1f3d"  # Darker navy footer
+        foreground: "#b0bec5"  # Muted light text
+
+  dark:
+    colors:
+      primary: "#5B8FD4"    # Lighter navy for dark mode
+      secondary: "#D4AF37"  # Brighter gold for dark mode
+      neutral: "#e0e0e0"    # Light gray text
+    surfaces:
+      background: "#0a1628"  # Very dark navy
+      foreground: "#e0e0e0"
+      header:
+        background: "#0f1f3d"  # Dark navy header
+        foreground: "#f0f0f0"
+      footer:
+        background: "#060e1a"  # Darkest navy
+        foreground: "#8b949e"

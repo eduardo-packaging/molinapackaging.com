@@ -2,7 +2,7 @@
 
 A professional academic website built with [Hugo](https://gohugo.io/) and the [Hugo Blox (Wowchemy)](https://hugoblox.com/) theme.
 
-**Live site:** https://
+**Live site:** https://edumol88.github.io
 
 ## Features
 
